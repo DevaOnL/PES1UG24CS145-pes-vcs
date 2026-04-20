@@ -274,3 +274,19 @@ Git avoids this kind of race by being conservative:
 - it does not aggressively delete very recent unreachable objects immediately
 - it uses additional safety mechanisms such as reflogs and grace periods
 - it typically performs garbage collection in controlled conditions rather than blindly deleting anything currently unreachable at one instant
+
+## Final Integration Test
+
+Final end-to-end integration evidence is captured across three screenshots:
+
+- [`screenshots/final_integration_test_part1.png`](screenshots/final_integration_test_part1.png)
+- [`screenshots/final_integration_test_part2.png`](screenshots/final_integration_test_part2.png)
+- [`screenshots/final_integration_test_part3.png`](screenshots/final_integration_test_part3.png)
+
+Commands used:
+
+```bash
+cd /home/d3va/Downloads/OS/OS_Unit4_Orange/os-u4-orange-problem
+export PES_AUTHOR="Devansh Gupta <PES1UG24CS145>"
+make test-integration
+```
