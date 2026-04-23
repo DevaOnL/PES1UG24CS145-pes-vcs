@@ -13,7 +13,7 @@ Current evidence is captured in a combined screenshot that includes:
 
 File:
 
-- [`screenshots/phase1_combined_1A_1B.png`](screenshots/phase1_combined_1A_1B.png)
+![`screenshots/phase1_combined_1A_1B.png`](screenshots/phase1_combined_1A_1B.png)
 
 Commands used:
 
@@ -34,7 +34,7 @@ Notes:
 
 `./test_tree` output showing all Phase 2 tests passing:
 
-- [`screenshots/phase2_2A_test_tree.png`](screenshots/phase2_2A_test_tree.png)
+![`screenshots/phase2_2A_test_tree.png`](screenshots/phase2_2A_test_tree.png)
 
 Commands used:
 
@@ -48,11 +48,11 @@ make test_tree
 
 Raw tree object dump:
 
-- [`screenshots/phase2_2B_tree_xxd.png`](screenshots/phase2_2B_tree_xxd.png)
+![`screenshots/phase2_2B_tree_xxd.png`](screenshots/phase2_2B_tree_xxd.png)
 
 Supporting helper-command capture:
 
-- [`screenshots/phase2_2B_tree_helper_command.png`](screenshots/phase2_2B_tree_helper_command.png)
+![`screenshots/phase2_2B_tree_helper_command.png`](screenshots/phase2_2B_tree_helper_command.png)
 
 Commands used:
 
@@ -115,7 +115,7 @@ Current evidence is captured in one combined screenshot that includes:
 
 File:
 
-- [`screenshots/phase3_combined_3A_3B.png`](screenshots/phase3_combined_3A_3B.png)
+![`screenshots/phase3_combined_3A_3B.png`](screenshots/phase3_combined_3A_3B.png)
 
 Commands used:
 
@@ -147,8 +147,8 @@ Current evidence is captured across two screenshots. Together they include:
 
 Files:
 
-- [`screenshots/phase4_combined_4A_4B_4C_part1.png`](screenshots/phase4_combined_4A_4B_4C_part1.png)
-- [`screenshots/phase4_combined_4A_4B_4C_part2.png`](screenshots/phase4_combined_4A_4B_4C_part2.png)
+![`screenshots/phase4_combined_4A_4B_4C_part1.png`](screenshots/phase4_combined_4A_4B_4C_part1.png)
+![`screenshots/phase4_combined_4A_4B_4C_part2.png`](screenshots/phase4_combined_4A_4B_4C_part2.png)
 
 Commands used:
 
@@ -279,9 +279,9 @@ Git avoids this kind of race by being conservative:
 
 Final end-to-end integration evidence is captured across three screenshots:
 
-- [`screenshots/final_integration_test_part1.png`](screenshots/final_integration_test_part1.png)
-- [`screenshots/final_integration_test_part2.png`](screenshots/final_integration_test_part2.png)
-- [`screenshots/final_integration_test_part3.png`](screenshots/final_integration_test_part3.png)
+![`screenshots/final_integration_test_part1.png`](screenshots/final_integration_test_part1.png)
+![`screenshots/final_integration_test_part2.png`](screenshots/final_integration_test_part2.png)
+![`screenshots/final_integration_test_part3.png`](screenshots/final_integration_test_part3.png)
 
 Commands used:
 
