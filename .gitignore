@@ -17,4 +17,9 @@ test_tree
 .vscode/
 .idea/
 
+# Document editor temp files
+.~lock.*#
+
+# Local generated exports
+OS_U4_Orange_Report.pdf
 
